@@ -1,4 +1,3 @@
-# Stick-Master
 # Stick Master Game 
 <img width="1512" height="858" alt="Screenshot 2026-04-17 at 7 22 50 PM" src="https://github.com/user-attachments/assets/feefa000-38b7-41c3-9a25-8efef1d01d34" />
 
